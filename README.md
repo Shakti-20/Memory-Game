@@ -15,4 +15,5 @@ The game board consists of sixteen cards arranged randomly in a grid. The deck i
 
 The game ends once all cards have been correctly matched.
 
+![image](https://user-images.githubusercontent.com/72925807/188563423-d61429b8-eb5e-4d3a-ac45-23c861f7f28e.png)
 
